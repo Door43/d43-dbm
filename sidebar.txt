@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbm:home|Door43 (dbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbm|d43-dbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbm/archive/master.zip|d43-dbm.zip]]
+
+**Recent Changes**
+{{changes>ns = dbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbm|Ethnologue data]]
+
